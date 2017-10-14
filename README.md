@@ -1,0 +1,2 @@
+# Namize
+Name your computer
