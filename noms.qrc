@@ -1,0 +1,6 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>feminin.txt</file>
+    <file>masculin.txt</file>
+</qresource>
+</RCC>
